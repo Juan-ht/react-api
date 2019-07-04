@@ -11,9 +11,8 @@ const Contacts = ({contacts}) => {
                 <h5 className="card-title">Name: {contact.nombre}</h5>
                 <h5 className="card-title">Apellidos: {contact.apellidos}</h5>
                 <h5 className="card-title">Fecha de nacimiento: {contact.nacimiento}</h5>
-                <img src={contact.avatar} width="120px" height="100px"/>
+                <img src={contact.avatar} alt="text" width="120px" height="100px"/>
               </div>
-              
             </div>
           ))}
         </div>
