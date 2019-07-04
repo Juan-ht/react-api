@@ -1,0 +1,32 @@
+{
+    "alumnos": [
+        {
+            "id":0,
+            "nombre": "Antonio",
+            "apellidos": "López Sevilla",
+            "nacimiento": 1991,
+            "avatar": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+        },
+        {
+            "id":1,
+            "nombre": "María",
+            "apellidos": "García Aranda",
+            "nacimiento": 1995,
+            "avatar": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
+        },
+        {
+            "id":1,
+            "nombre": "Daniel",
+            "apellidos": "León Soria",
+            "nacimiento": 1984,
+            "avatar": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
+        },
+        {
+            "id":1,
+            "nombre": "Lucía",
+            "apellidos": "Martínez Santiago",
+            "nacimiento": 1993,
+            "avatar": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
+        }
+    ]
+}
